@@ -1,2 +1,4 @@
 # hello-world
-Learning how to use GitHub
+==============
+
+Learning to edit in GitHub using commits and branches.
